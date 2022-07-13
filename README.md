@@ -15,6 +15,7 @@
     - [Markt / Einkauf](#markt--einkauf)
     - [Telefonat](#telefonat)
     - [Plaudern](#plaudern)
+    - [Farben](#farben)
     - [Wetter](#wetter)
     - [Urlaub](#urlaub)
     - [Freizeit](#freizeit)
@@ -145,11 +146,15 @@ Easy...
 | --- | --- |
 | **Milchverkäufer** | **de melkboer** |
 | Butter | de boter |
+| Ekelkäse | de nagelkaas |
+| Milch | halfvolle/magere melk |
 | **Bauer / Marktverkäufer** | **de boer** |
 | Eier | de eieren |
+| Mehl | het meel|
 | **Gemüsehändler** | **de groenteboer** |
 | Tomaten | de tomaten |
 | Kartoffeln | de aardappels |
+| Erdbeeren | de aardbeien |
 | Zwiebeln | de uien |
 | **Fischverkäufer** | **de visboer** |
 | Hering | de haring |
@@ -159,12 +164,17 @@ Easy...
 | Kuchen | de cake |
 | Brot | het brood |
 | tägliche Einkäufe | boodschappen |
+| mit Kreditkarte zahlen| creditcard betalen |
+| mit Pinkarte zahlen | pinnen |
+| bar | contant |
 
 | Phrasen |
 | --- |
 | Zegt u het maar! |
 | Ik wil graag ... |
 | Wat kosten die? |
+| Hoe kan ik betalen? |
+| Ik heb het ook nog gepast. |
 | Anders nog iets, meneer? |
 | Natuurlijk |
 | Dat was het |
@@ -174,6 +184,10 @@ Easy...
 | Mag het een beetje meer zijn? |
 | Eet smakelijk! |
 | Kan dat? |
+| Het spijt me, maar ik heb er niet meer. |
+| Probeer de stand aan de andere kant van het plein of kom morgen weer. |
+| Zijn de ... in de aanbieding? |
+| Nog eens mijn excuses voor het ongemak |
 
 ### Telefonat
 
@@ -398,6 +412,9 @@ Easy...
 | Willen jullie its drinken/eten?| 
 | Ik eet niets |
 | Voor mij een ..., alsjeblieft. | 
+| Roep me als jullie iets willen drinken. |
+| Roep me als jullie weten wat jullie willen eten. |
+| Roep me als jullie een keuzen besloten hebben. |
 | Ik vind alle gerechten op de kaart lekker |
 | Mevrouw/Meneer voor u heb ik de ... | 
 | Eet smakelijk! | 
