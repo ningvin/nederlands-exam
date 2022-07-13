@@ -286,10 +286,19 @@ Easy...
 | anrufen | opbellen |
 | klingeln | klingeln |
 | Zeitung | krant |
+| Fenster | ramen |
+| Wand | muur |
+| Schreibtisch | bureau |
 
 | Phrasen |
 | --- |
 | Ze maakt haar bed op |
+| Onze ... is klein maar voor ons groot genoeg. |
+| De ... is mooi ingericht. |
+| Er staat een bed en een kast met kleren. |
+| We zijn blij met ons nieuwe huis. |
+
+
 
 ### Zeit
 
