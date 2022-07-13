@@ -309,6 +309,17 @@ Easy...
 | Fenster | ramen |
 | Wand | muur |
 | Schreibtisch | bureau |
+| Bügeleisen | het strijkijzer |
+| Geschirrspüler | de vaatwasser |
+| Fernseher | de televisie |
+| Kaffeemaschine | het koffiezetapparaat |
+| Wasserkocher | de waterkoker |
+| Kühlscrank | de koolkast |
+| Herd | het fornuis |
+| Stuhl | de stool |
+| Lampe | de lamp |
+| Secondhandladen | de kringloopwinkel |
+| Kleiderschrank | de klerenkast |
 
 | Phrasen |
 | --- |
@@ -330,6 +341,10 @@ Easy...
 | Ik vind het juist wel fijn een beetje groen te zien |
 | ... is bij de verhuizing kapotgegaan |
 | ... vind ik nog niet zo leuk |
+| het behang is erg oud |
+| we moeten de muren opnieuw verven |
+| we verbouwen onze eigen groenten |
+| we hebben zelfs een appelboom |
 
 ### Zeit
 
