@@ -115,6 +115,7 @@ Easy...
 | Met wie is hij getrouwd? |
 | Hoeveel broers heb je? |
 | Ik heb er twee |
+| Heb je kinderen? |
 
 ### Aussehen
 
@@ -184,6 +185,25 @@ Easy...
 | Hoe gaat het? |
 | Dat meen je niet! |
 | Wat spannend! Vertel! |
+| Wat vervelend! |
+| Leuk je te leren kennen! |
+| Dit is …, een vriendin van mij. |
+| Ze is hier op vakantie. |
+| Hoe is het weer in …? |
+| Ik moet je een heleboel vertellen. |
+
+### Farben
+
+| Deutsch | Niederländisch |
+| ------- | -------------- |
+| rot     | rood           |
+| blau    | blauw          |
+| gelb    | geel           |
+| grün    | groen          |
+| schwarz | zwart          |
+| orange  | oranje         |
+| weiß    | wit            |
+| braun   | bruin          |
 
 ### Wetter
 
