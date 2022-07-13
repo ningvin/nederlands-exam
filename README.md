@@ -22,7 +22,8 @@
     - [Wohnung](#wohnung)
     - [Zeit](#zeit)
     - [Ort](#ort)
-    - [Cafe](#cafe)
+    - [Cafe / Restaurant](#cafe--restaurant)
+    - [Gerichte / Trinken](#gerichte--trinken)
   - [Grammatik](#grammatik-1)
     - [Plural](#plural)
     - [Zeiten](#zeiten)
@@ -329,6 +330,45 @@ Easy...
 | viertel nach | kwart over |
 
 ### Ort
+
+### Cafe / Restaurant
+
+| Deutsch | Niederländisch |
+| ---     | ---            |
+| Menukarte | Menukaart |
+| Kellner | Kelner | 
+
+| Phrasen | 
+| ---            |
+| Willen jullie its drinken/eten?| 
+| Ik eet niets |
+| Voor mij een ..., alsjeblieft. | 
+| Ik vind alle gerechten op de kaart lekker |
+| Mevrouw/Meneer voor u heb ik de ... | 
+| Eet smakelijk! | 
+| Mogen we misschen nog wat water krijgen? |
+| Proost, op ons! |
+| Heeft het gesmaakt? |
+| Hoe bevalt je de bitterballen? |
+| Kunnen we misschen afrekenen? |
+| Dat is dan $x$ euro bij elkaar. |
+| Doet u  maar $x+1\%$ |
+
+### Gerichte / Trinken
+| Deutsch | Niederländisch |
+| ---     | ---            |
+| Suppe | de soup | 
+| frittierte Kalbfleischkroketten | de portie bitterballen|
+| Pfannkuchen | de pannenkoek | 
+| Toast mit Schinkenkäs | de tosti ham/kas | 
+| großer Salat | de maaltijdsalade | 
+| (milch) Kaffe | de koffie (verkeerd) |
+| Pfefferminztee| de muntthee |
+| Schokomilch mit Sahne| de chocomel met slagroom|
+| Bier | het biertje|
+| Orangensaft | het sinaasappelsap|
+| Schnaps | het borreltje|
+| (spruddeliges) Wasser | de (rood) spa |
 
 ## Grammatik
 
