@@ -317,8 +317,19 @@ Easy...
 | De ... is mooi ingericht. |
 | Er staat een bed en een kast met kleren. |
 | We zijn blij met ons nieuwe huis. |
-
-
+| Welkom in ons nieuwe huis |
+| Ik leid je wel even rond |
+| Goh, wat zeit het er mooit uit! |
+| Niet alleen van buiten, binnen is het ook erg mooi |
+| Lekker licht en ruim, he? |
+| Allemaal nieuwe meubels en apparaten! |
+| Wat prachtig! |
+| Ik vind ... ook geweldig |
+| Het is hier te donker |
+| ... zijn van de vorige bewoners |
+| Ik vind het juist wel fijn een beetje groen te zien |
+| ... is bij de verhuizing kapotgegaan |
+| ... vind ik nog niet zo leuk |
 
 ### Zeit
 
