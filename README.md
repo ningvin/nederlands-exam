@@ -141,14 +141,21 @@ Easy...
 
 | Deutsch | Niederländisch |
 | --- | --- |
-| Bauer / Marktverkäufer | de boer |
-| Gemüsehändler | de groenteboer |
-| Milchverkäufer | de melkboer |
-| Fischverkäufer | de visboer |
-| Metzger | de slager |
-| Bäcker | de bakker |
+| **Milchverkäufer** | **de melkboer** |
+| Butter | de boter |
+| **Bauer / Marktverkäufer** | **de boer** |
+| Eier | de eieren |
+| **Gemüsehändler** | **de groenteboer** |
 | Tomaten | de tomaten |
 | Kartoffeln | de aardappels |
+| Zwiebeln | de uien |
+| **Fischverkäufer** | **de visboer** |
+| Hering | de haring |
+| **Metzger** | **de slager** |
+| Gehacktes | de gehakt |
+| **Bäcker** | **de bakker** |
+| Kuchen | de cake |
+| Brot | het brood |
 | tägliche Einkäufe | boodschappen |
 
 | Phrasen |
