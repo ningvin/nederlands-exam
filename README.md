@@ -2,41 +2,42 @@
 
 ## Übersicht
 
-1. **Aufgabenbereiche**
-    - Hörverstehen
-    - Leseverstehen
-    - Grammatik
-    - Schriftliche Sprachproduktion
-2. **Szenarien**
-    - Familie
-    - Aussehen
-    - Markt / Einkauf
-    - Plaudern
-    - Wetter
-    - Urlaub
-    - Freizeit
-    - Ausbildung & Beruf
-    - Wohnung
-    - Zeit
-    - Ort
-3. **Grammatik**
-    - Plural
-    - Zeiten
-      - Präsens
-      - Perfekt
-      - Imperfekt / Präteritum
-      - Futur
-        - zullen
-        - gaan
-    - Imperativ
-        - formell
-        - informell
-    - Steigerung
-    - Verniedlichung
-    - Relativpronomen
-    - Flexion
-      - Deklination von Adjektiven
-      - Konjugation von Verben
+- [Nederlands A1 / A2 Exam](#nederlands-a1--a2-exam)
+  - [Übersicht](#übersicht)
+  - [Aufgabenbereiche](#aufgabenbereiche)
+    - [Hörverstehen](#hörverstehen)
+    - [Leseverstehen](#leseverstehen)
+    - [Grammatik](#grammatik)
+    - [Schriftliche Sprachproduktion](#schriftliche-sprachproduktion)
+  - [Szenarien](#szenarien)
+    - [Familie](#familie)
+    - [Aussehen](#aussehen)
+    - [Markt / Einkauf](#markt--einkauf)
+    - [Telefonat](#telefonat)
+    - [Plaudern](#plaudern)
+    - [Wetter](#wetter)
+    - [Urlaub](#urlaub)
+    - [Freizeit](#freizeit)
+    - [Ausbildung & Beruf](#ausbildung--beruf)
+    - [Wohnung](#wohnung)
+    - [Zeit](#zeit)
+    - [Ort](#ort)
+    - [Cafe / Restaurant](#cafe--restaurant)
+    - [Gerichte / Trinken](#gerichte--trinken)
+  - [Grammatik](#grammatik-1)
+    - [Plural](#plural)
+    - [Zeiten](#zeiten)
+      - [Präsens](#präsens)
+      - [Perfekt](#perfekt)
+      - [Imperfekt / Präteritum](#imperfekt--präteritum)
+      - [Futur](#futur)
+    - [Imperativ](#imperativ)
+    - [Steigerung](#steigerung)
+    - [Verniedlichung](#verniedlichung)
+    - [Relativpronomen](#relativpronomen)
+    - [Flexion](#flexion)
+      - [Deklination von Adjektiven](#deklination-von-adjektiven)
+      - [Konjugation von Verben](#konjugation-von-verben)
 
 ## Aufgabenbereiche
 
@@ -142,14 +143,21 @@ Easy...
 
 | Deutsch | Niederländisch |
 | --- | --- |
-| Bauer / Marktverkäufer | de boer |
-| Gemüsehändler | de groenteboer |
-| Milchverkäufer | de melkboer |
-| Fischverkäufer | de visboer |
-| Metzger | de slager |
-| Bäcker | de bakker |
+| **Milchverkäufer** | **de melkboer** |
+| Butter | de boter |
+| **Bauer / Marktverkäufer** | **de boer** |
+| Eier | de eieren |
+| **Gemüsehändler** | **de groenteboer** |
 | Tomaten | de tomaten |
 | Kartoffeln | de aardappels |
+| Zwiebeln | de uien |
+| **Fischverkäufer** | **de visboer** |
+| Hering | de haring |
+| **Metzger** | **de slager** |
+| Gehacktes | de gehakt |
+| **Bäcker** | **de bakker** |
+| Kuchen | de cake |
+| Brot | het brood |
 | tägliche Einkäufe | boodschappen |
 
 | Phrasen |
@@ -298,10 +306,19 @@ Easy...
 | anrufen | opbellen |
 | klingeln | klingeln |
 | Zeitung | krant |
+| Fenster | ramen |
+| Wand | muur |
+| Schreibtisch | bureau |
 
 | Phrasen |
 | --- |
 | Ze maakt haar bed op |
+| Onze ... is klein maar voor ons groot genoeg. |
+| De ... is mooi ingericht. |
+| Er staat een bed en een kast met kleren. |
+| We zijn blij met ons nieuwe huis. |
+
+
 
 ### Zeit
 
@@ -342,6 +359,45 @@ Easy...
 | viertel nach | kwart over |
 
 ### Ort
+
+### Cafe / Restaurant
+
+| Deutsch | Niederländisch |
+| ---     | ---            |
+| Menukarte | Menukaart |
+| Kellner | Kelner | 
+
+| Phrasen | 
+| ---            |
+| Willen jullie its drinken/eten?| 
+| Ik eet niets |
+| Voor mij een ..., alsjeblieft. | 
+| Ik vind alle gerechten op de kaart lekker |
+| Mevrouw/Meneer voor u heb ik de ... | 
+| Eet smakelijk! | 
+| Mogen we misschen nog wat water krijgen? |
+| Proost, op ons! |
+| Heeft het gesmaakt? |
+| Hoe bevalt je de bitterballen? |
+| Kunnen we misschen afrekenen? |
+| Dat is dan $x$ euro bij elkaar. |
+| Doet u  maar $x+1\%$ |
+
+### Gerichte / Trinken
+| Deutsch | Niederländisch |
+| ---     | ---            |
+| Suppe | de soup | 
+| frittierte Kalbfleischkroketten | de portie bitterballen|
+| Pfannkuchen | de pannenkoek | 
+| Toast mit Schinkenkäs | de tosti ham/kas | 
+| großer Salat | de maaltijdsalade | 
+| (milch) Kaffe | de koffie (verkeerd) |
+| Pfefferminztee| de muntthee |
+| Schokomilch mit Sahne| de chocomel met slagroom|
+| Bier | het biertje|
+| Orangensaft | het sinaasappelsap|
+| Schnaps | het borreltje|
+| (spruddeliges) Wasser | de (rood) spa |
 
 ## Grammatik
 
