@@ -153,7 +153,7 @@ Easy...
 | Mehl                       | het meel              |
 | **Gemüsehändler**          | **de groenteboer**    |
 | Tomaten                    | de tomaten            |
-| Kartoffeln                 | de aardappels         |
+| Kartoffeln                 | de (kruimige) aardappels         |
 | Erdbeeren                  | de aardbeien          |
 | Zwiebeln                   | de uien               |
 | **Fischverkäufer**         | **de visboer**        |
@@ -307,7 +307,9 @@ Easy...
 
 | Deutsch         | Niederlädnisch        |
 | --------------- | --------------------- |
+| Wohnung         | het appartement       |
 | Küche           | de keuken             |
+| Garten          | de tuin               |
 | Flur            | de gang               |
 | Wohnzimmer      | de woonkammer         |
 | Schlafzimmer    | de slapkammer         |
@@ -337,19 +339,21 @@ Easy...
 
 | Phrasen                                             |
 | --------------------------------------------------- |
+| Welkom in ons nieuwe huis                           |
+| Goh, wat ziet het er mooi uit!                      |
 | Ze maakt haar bed op                                |
 | Onze ... is klein maar voor ons groot genoeg.       |
 | De ... is mooi ingericht.                           |
 | Er staat een bed en een kast met kleren.            |
 | We zijn blij met ons nieuwe huis.                   |
-| Welkom in ons nieuwe huis                           |
 | Ik leid je wel even rond                            |
-| Goh, wat zeit het er mooit uit!                     |
 | Niet alleen van buiten, binnen is het ook erg mooi  |
 | Lekker licht en ruim, he?                           |
 | Allemaal nieuwe meubels en apparaten!               |
 | Wat prachtig!                                       |
 | Ik vind ... ook geweldig                            |
+| Ik plant zelfs mijn eigen groenten.                 |
+| Waar heb je de omslagen vaandan?                    |
 | Het is hier te donker                               |
 | ... zijn van de vorige bewoners                     |
 | Ik vind het juist wel fijn een beetje groen te zien |
