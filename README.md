@@ -1,475 +1,320 @@
-# Nederlands A1 / A2 Exam
-
-## Übersicht
-
-- [Nederlands A1 / A2 Exam](#nederlands-a1--a2-exam)
-  - [Übersicht](#übersicht)
-  - [Aufgabenbereiche](#aufgabenbereiche)
-    - [Hörverstehen](#hörverstehen)
-    - [Leseverstehen](#leseverstehen)
-    - [Grammatik](#grammatik)
-    - [Schriftliche Sprachproduktion](#schriftliche-sprachproduktion)
-  - [Szenarien](#szenarien)
-    - [Familie](#familie)
-    - [Aussehen](#aussehen)
-    - [Markt / Einkauf](#markt--einkauf)
-    - [Telefonat](#telefonat)
-    - [Plaudern](#plaudern)
-    - [Farben](#farben)
-    - [Wetter](#wetter)
-    - [Urlaub](#urlaub)
-    - [Freizeit](#freizeit)
-    - [Ausbildung & Beruf](#ausbildung--beruf)
-    - [Wohnung](#wohnung)
-    - [Zeit](#zeit)
-    - [Ort](#ort)
-    - [Cafe / Restaurant](#cafe--restaurant)
-    - [Gerichte / Trinken](#gerichte--trinken)
-  - [Grammatik](#grammatik-1)
-    - [Plural](#plural)
-    - [Zeiten](#zeiten)
-      - [Präsens](#präsens)
-      - [Perfekt](#perfekt)
-      - [Imperfekt / Präteritum](#imperfekt--präteritum)
-      - [Futur](#futur)
-    - [Imperativ](#imperativ)
-    - [Steigerung](#steigerung)
-    - [Verniedlichung](#verniedlichung)
-    - [Relativpronomen](#relativpronomen)
-    - [Flexion](#flexion)
-      - [Deklination von Adjektiven](#deklination-von-adjektiven)
-      - [Konjugation von Verben](#konjugation-von-verben)
-
-## Aufgabenbereiche
-
-### Hörverstehen
-
-Gnade uns Gott!
-
-### Leseverstehen
-
-Easy...
-
-### Grammatik
-
-- Lückentexte
-  - Zeiten (Präsens / Perfekt / Imperfekt)
-  - Pronomen
-  - Adjektive
-  - Artikel
-- Sätze vervollständigen (Satzbau)
-
-### Schriftliche Sprachproduktion
-
-- Email
-- Brief
-- Beschreibung
-  - Tagesablauf
-
-## Szenarien
-
-### Familie
-
-| Deutsch          | Niederländisch   |
-| ---------------- | ---------------- |
-| Familienmitglied | het familielid   |
-| Ehepaar          | het echtpaar     |
-| Mann             | de man           |
-| Frau             | de vrouw         |
-| Eltern           | de ouders        |
-| Mutter           | de moeder        |
-| Vater            | de vader         |
-| Kinder           | de kinderen      |
-| Tochter          | de dochter       |
-| Sohn             | de zoon          |
-| Großeltern       | de grootouders   |
-| Oma              | de oma           |
-| Opa              | de opa           |
-| Enkelkinder      | de kleinkinderen |
-| Enkeltochter     | de kleindochter  |
-| Enkelsohn        | de kleinzon      |
-| Schwiegereltern  | de schoonouders  |
-| Schwiegermutter  | de schoonmoeder  |
-| Schwiegervater   | de schoonvader   |
-| Geschwister      | broers en zussen |
-| Schwester        | de zus           |
-| Bruder           | de broer         |
-| Tante            | de tante         |
-| Onkel            | de oom           |
-| Cousin           | de neef          |
-| Cousine          | de nicht         |
-| Neffe            | het neefje       |
-| Nichte           | het nichtje      |
-| Schwägerin       | de schoonzus     |
-| Schwager         | de zwager        |
-| Schwiegertochter | de schoondochter |
-| Schwiegersohn    | de schoonzoon    |
-
-| Deutsch        | Niederländisch     |
-| -------------- | ------------------ |
-| trauen         | trouwen            |
-| scheiden       | scheiden           |
-| schwanger sein | in vewachting zijn |
-| verliebt sein  | verliefd zijn      |
-
-| Phrasen                  |
-| ------------------------ |
-| Met wie is hij getrouwd? |
-| Hoeveel broers heb je?   |
-| Ik heb er twee           |
-| Heb je kinderen?         |
-
-### Aussehen
-
-| Deutsch        | Niederländisch       |
-| -------------- | -------------------- |
-| jung           | jong                 |
-| alt            | oud                  |
-| hässlich       | lelijk               |
-| schön          | knap / mooi / lekker |
-| klein          | klein                |
-| groß           | lang / groot         |
-| dick           | dik                  |
-| dünn           | slank / mager        |
-| lockiges Haar  | krulhaar             |
-| gewelltes Haar | golvend haar         |
-| muskulös       | gespierd             |
-| Augen          | ogen                 |
-
-| Phrasen             |
-| ------------------- |
-| Hoe ziet hij eruit? |
-
-### Markt / Einkauf
-
-| Deutsch                    | Niederländisch        |
-| -------------------------- | --------------------- |
-| **Milchverkäufer**         | **de melkboer**       |
-| Butter                     | de boter              |
-| Ekelkäse                   | de nagelkaas          |
-| Milch                      | halfvolle/magere melk |
-| **Bauer / Marktverkäufer** | **de boer**           |
-| Eier                       | de eieren             |
-| Mehl                       | het meel              |
-| **Gemüsehändler**          | **de groenteboer**    |
-| Tomaten                    | de tomaten            |
-| Kartoffeln                 | de (kruimige) aardappels         |
-| Erdbeeren                  | de aardbeien          |
-| Zwiebeln                   | de uien               |
-| **Fischverkäufer**         | **de visboer**        |
-| Hering                     | de haring             |
-| **Metzger**                | **de slager**         |
-| Gehacktes                  | de gehakt             |
-| **Bäcker**                 | **de bakker**         |
-| Kuchen                     | de cake               |
-| Brot                       | het brood             |
-| tägliche Einkäufe          | boodschappen          |
-| mit Kreditkarte zahlen     | creditcard betalen    |
-| mit Pinkarte zahlen        | pinnen                |
-| bar                        | contant               |
-
-| Phrasen                                                               |
-| --------------------------------------------------------------------- |
-| Zegt u het maar!                                                      |
-| Ik wil graag ...                                                      |
-| Wat kosten die?                                                       |
-| Hoe kan ik betalen?                                                   |
-| Ik heb het ook nog gepast.                                            |
-| Anders nog iets, meneer?                                              |
-| Natuurlijk                                                            |
-| Dat was het                                                           |
-| Wat krijg je van me?                                                  |
-| Ik heb het ook nog gepast                                             |
-| Wie is er an de beurt?                                                |
-| Mag het een beetje meer zijn?                                         |
-| Eet smakelijk!                                                        |
-| Kan dat?                                                              |
-| Het spijt me, maar ik heb er niet meer.                               |
-| Probeer de stand aan de andere kant van het plein of kom morgen weer. |
-| Zijn de ... in de aanbieding?                                         |
-| Nog eens mijn excuses voor het ongemak                                |
-
-### Telefonat
-
-| Phrasen                        |
-| ------------------------------ |
-| Dan zijn we nu weer beigepraat |
-| Met Peter Zwegat               |
-| Hoi                            |
-
-### Plaudern
-
-| Phrasen                            |
-| ---------------------------------- |
-| Wie bedoel je?                     |
-| Serieus?                           |
-| Niet te geloven!                   |
-| Hoe gaat het?                      |
-| Dat meen je niet!                  |
-| Wat spannend! Vertel!              |
-| Wat vervelend!                     |
-| Leuk je te leren kennen!           |
-| Dit is …, een vriendin van mij.    |
-| Ze is hier op vakantie.            |
-| Hoe is het weer in …?              |
-| Ik moet je een heleboel vertellen. |
-
-### Farben
-
-| Deutsch | Niederländisch |
-| ------- | -------------- |
-| rot     | rood           |
-| blau    | blauw          |
-| gelb    | geel           |
-| grün    | groen          |
-| schwarz | zwart          |
-| orange  | oranje         |
-| weiß    | wit            |
-| braun   | bruin          |
-
-### Wetter
-
-| Deutsch     | Niederländisch |
-| ----------- | -------------- |
-| Wetter      | het weer       |
-| Hundewetter | het hondenweer |
-| Unwetter    | het onweer     |
-| Nebel       | de mist        |
-| Schnee      | de sneeuw      |
-| Sonne       | de zon         |
-| Wind        | de wind        |
-| Wolken      | de wolken      |
-| Regen       | de regen       |
-| Sturm       | de storm       |
-| Temperatur  | de temperatuur |
-
-| Phrasen                     |
-| --------------------------- |
-| Als het weer lekker is, ... |
-| Het is bewolkt              |
-| De zon schijnt              |
-| Het is 15 graden            |
-
-### Urlaub
-
-| Deutsch     | Niederländisch |
-| ----------- | -------------- |
-| Frankreich  | Frankrijk      |
-| Deutschland | Duitsland      |
-
-| Phrasen                      |
-| ---------------------------- |
-| Heel veel groeten vanuit ... |
-| Op vakantie                  |
-
-### Freizeit
-
-| Deutsch          | Niederländisch     |
-| ---------------- | ------------------ |
-| Freizeit         | vrije tijd         |
-| drinnen          | binnen             |
-| draußen          | buiten             |
-| Tiergarten / Zoo | de dierentuin      |
-| Ausstellung      | de tentoonstelling |
-| Radrennen        | de wielerwedstrijd |
-| gärtnern         | tuinieren          |
-| Kino             | de bioscoop        |
-| auswärts essen   | uit eten           |
-| Fußball spielen  | voetballen         |
-| wandern          | wandelen           |
-| entspannen       | relaxen            |
-| laufen           | hardlopen          |
-| malen            | schilderen         |
-| Karten spielen   | kaarten            |
-| Lesen            | lezen              |
-
-| Phrasen                      |
-| ---------------------------- |
-| Wat doe je in je vrije tijd? |
-| Wat ga je morgen doen?       |
-| Hij is aan het bellen        |
-
-### Ausbildung & Beruf
-
-| Deutsch                    | Niederländisch        |
-| -------------------------- | --------------------- |
-| Ausbildung / Weiterbildung | onderwijs / opleiding |
-| Arbeit                     | het werk              |
-| Beruf                      | de baan               |
-| studieren                  | studeren              |
-| arbeiten                   | werken                |
-
-| Phrasen      |
-| ------------ |
-| Aan het werk |
-
-### Wohnung
-
-| Deutsch         | Niederlädnisch        |
-| --------------- | --------------------- |
-| Wohnung         | het appartement       |
-| Küche           | de keuken             |
-| Garten          | de tuin               |
-| Flur            | de gang               |
-| Wohnzimmer      | de woonkammer         |
-| Schlafzimmer    | de slapkammer         |
-| Kinderzimmer    | de kinderkammer       |
-| Büro            | de studeerkammer      |
-| Badezimmer      | de badkammer          |
-| Balkon          | het balkon            |
-| aufstehen       | opstaan               |
-| Bett machen     | bed opmaken           |
-| anrufen         | opbellen              |
-| klingeln        | klingeln              |
-| Zeitung         | krant                 |
-| Fenster         | ramen                 |
-| Wand            | muur                  |
-| Schreibtisch    | bureau                |
-| Bügeleisen      | het strijkijzer       |
-| Geschirrspüler  | de vaatwasser         |
-| Fernseher       | de televisie          |
-| Kaffeemaschine  | het koffiezetapparaat |
-| Wasserkocher    | de waterkoker         |
-| Kühlscrank      | de koolkast           |
-| Herd            | het fornuis           |
-| Stuhl           | de stool              |
-| Lampe           | de lamp               |
-| Secondhandladen | de kringloopwinkel    |
-| Kleiderschrank  | de klerenkast         |
-
-| Phrasen                                             |
-| --------------------------------------------------- |
-| Welkom in ons nieuwe huis                           |
-| Goh, wat ziet het er mooi uit!                      |
-| Ze maakt haar bed op                                |
-| Onze ... is klein maar voor ons groot genoeg.       |
-| De ... is mooi ingericht.                           |
-| Er staat een bed en een kast met kleren.            |
-| We zijn blij met ons nieuwe huis.                   |
-| Ik leid je wel even rond                            |
-| Niet alleen van buiten, binnen is het ook erg mooi  |
-| Lekker licht en ruim, he?                           |
-| Allemaal nieuwe meubels en apparaten!               |
-| Wat prachtig!                                       |
-| Ik vind ... ook geweldig                            |
-| Ik plant zelfs mijn eigen groenten.                 |
-| Waar heb je de omslagen vaandan?                    |
-| Het is hier te donker                               |
-| ... zijn van de vorige bewoners                     |
-| Ik vind het juist wel fijn een beetje groen te zien |
-| ... is bij de verhuizing kapotgegaan                |
-| ... vind ik nog niet zo leuk                        |
-| het behang is erg oud                               |
-| we moeten de muren opnieuw verven                   |
-| we verbouwen onze eigen groenten                    |
-| we hebben zelfs een appelboom                       |
-
-### Zeit
-
-| Deutsch   | Niederländisch |
-| --------- | -------------- |
-| Monat     | maand          |
-| Jahr      | jaar           |
-| Januar    | januari        |
-| Februar   | februari       |
-| März      | maart          |
-| April     | april          |
-| Mai       | mei            |
-| Juni      | juni           |
-| Juli      | juli           |
-| August    | augustus       |
-| September | september      |
-| Oktober   | oktober        |
-| November  | november       |
-| Dezember  | december       |
-
-| Deutsch    | Niederländisch  |
-| ---------- | --------------- |
-| Wochentag  | dag van de week |
-| Montag     | maandag         |
-| Dienstag   | dinsdag         |
-| Mittwoch   | woensdag        |
-| Donnerstag | donderdag       |
-| Freitag    | vrijdag         |
-| Samstag    | zaterdag        |
-| Sonntag    | zondag          |
-
-| Deutsch      | Niederländisch |
-| ------------ | -------------- |
-| Uhr          | uur            |
-| fünf vor     | vijf voor      |
-| fünf nach    | vijf over      |
-| halb elf     | half elf       |
-| viertel nach | kwart over     |
-
-### Ort
-
-### Cafe / Restaurant
-
-| Deutsch   | Niederländisch |
-| --------- | -------------- |
-| Menukarte | Menukaart      |
-| Kellner   | Kelner         |
-
-| Phrasen                                          |
-| ------------------------------------------------ |
-| Willen jullie its drinken/eten?                  |
-| Ik eet niets                                     |
-| Voor mij een ..., alsjeblieft.                   |
-| Roep me als jullie iets willen drinken.          |
-| Roep me als jullie weten wat jullie willen eten. |
-| Roep me als jullie een keuzen besloten hebben.   |
-| Ik vind alle gerechten op de kaart lekker        |
-| Mevrouw/Meneer voor u heb ik de ...              |
-| Eet smakelijk!                                   |
-| Mogen we misschen nog wat water krijgen?         |
-| Proost, op ons!                                  |
-| Heeft het gesmaakt?                              |
-| Hoe bevalt je de bitterballen?                   |
-| Kunnen we misschen afrekenen?                    |
-| Dat is dan $x$ euro bij elkaar.                  |
-| Doet u  maar $x+1\%$                             |
-
-### Gerichte / Trinken
-| Deutsch                         | Niederländisch           |
-| ------------------------------- | ------------------------ |
-| Suppe                           | de soup                  |
-| frittierte Kalbfleischkroketten | de portie bitterballen   |
-| Pfannkuchen                     | de pannenkoek            |
-| Toast mit Schinkenkäs           | de tosti ham/kas         |
-| großer Salat                    | de maaltijdsalade        |
-| (milch) Kaffe                   | de koffie (verkeerd)     |
-| Pfefferminztee                  | de muntthee              |
-| Schokomilch mit Sahne           | de chocomel met slagroom |
-| Bier                            | het biertje              |
-| Orangensaft                     | het sinaasappelsap       |
-| Schnaps                         | het borreltje            |
-| (spruddeliges) Wasser           | de (rood) spa            |
-
-## Grammatik
-
-### Plural
-
-### Zeiten
-
-#### Präsens
-
-#### Perfekt
-
-#### Imperfekt / Präteritum
-
-#### Futur
-
-### Imperativ
-
-### Steigerung
-
-### Verniedlichung
-
-### Relativpronomen
-
-### Flexion
-
-#### Deklination von Adjektiven
-
-#### Konjugation von Verben
+- [1 - Grammatik](#1---grammatik)
+  - [1.1 - Zeiten](#11---zeiten)
+    - [1.1.1 - Vergangenheit](#111---vergangenheit)
+    - [1.1.2 - Futur](#112---futur)
+  - [1.2 - Imperativ](#12---imperativ)
+  - [1.3 - Singular \& Plural](#13---singular--plural)
+  - [1.4 - Verniedlichung](#14---verniedlichung)
+  - [1.5 - Steigerung](#15---steigerung)
+  - [1.6 - Pronomen](#16---pronomen)
+  - [1.7 - Fragewörter](#17---fragewörter)
+  - [1.8 - Modalverben](#18---modalverben)
+  - [1.9 - Konjunktionen](#19---konjunktionen)
+  - [1.10 - Konditionalis](#110---konditionalis)
+- [2 - Allgemeines](#2---allgemeines)
+  - [2.1 - Begrüßungen](#21---begrüßungen)
+  - [2.2 - Verabschiedungen](#22---verabschiedungen)
+  - [2.3 - Wie geht es dir?](#23---wie-geht-es-dir)
+- [3 - Zwischenprüfung](#3---zwischenprüfung)
+  - [3.1 - Fragen zu Texten](#31---fragen-zu-texten)
+    - [3.1.1 - Feest!](#311---feest)
+    - [3.1.2 - Problemen](#312---problemen)
+    - [3.1.3 - Een goede vriend of vriendin](#313---een-goede-vriend-of-vriendin)
+    - [3.1.4 - Schrijf een lezersbrief](#314---schrijf-een-lezersbrief)
+    - [3.1.5 - Een echte aanrader](#315---een-echte-aanrader)
+  - [3.2 - Bildbeschreibung](#32---bildbeschreibung)
+  - [3.3 - Scenarien](#33---scenarien)
+
+# 1 - Grammatik
+
+## 1.1 - Zeiten
+
+> Tijden
+
+### 1.1.1 - Vergangenheit
+
+> Verleden tijd
+
+**Perfekt**
+
+> Voltooid verleden tijd
+
+`hebben`/`zijn` ... `ge` + *Stamm* + `d`/`t`
+
+Stamm endet auf `P`/`K`/`T`/`S`/`CH`/`F`/`X` ⇒ `t`, sonst `d`
+
+| Wann wird das Perfekt genutzt | Beispiel |
+| --- | --- |
+| Die Handlung steht im Mittelpunkt | *Ik ben nog nooit in Amsterdam geweest* |
+| Es gibt einen Bezug zur Gegenwart | *De straat is nog nat* |
+| Handlung in Geschichten | *Ik ben in Amsterdam geweest* |
+
+**Imperfekt**
+
+> Onvoltooid verleden tijd
+
+*Stamm* + `de(n)`/`te(n)`
+
+Stamm endet auf `P`/`K`/`T`/`S`/`CH`/`F`/`X` ⇒ `te(n)`, sonst `de(n)`
+
+| Wann wird das Imperfekt genutzt | Beispiel |
+| --- | --- |
+| Der Zeitpunkt steht im Mittelpunkt | *Gisteren was ik in Amsterdam* |
+| Gewohnheiten in der Vergangenheit | *Toen ik klein was, zwom ik iedere dag* |
+| Hintergrundinformationen in Geschichten | *Het regende en het was koud* |
+
+### 1.1.2 - Futur
+
+> Toekomst / onvoltooid tegenwoordige toekomende tijd
+
+| Form | Wann genutzt |
+| --- | --- |
+| Präsens + Zeitangabe | (fester) Plan |
+| `gaan` + Infinitiv | Plan |
+| `zullen` + Infinitiv | etwas formaler; bei Fragen (*sollen*/*wollen*) |
+
+## 1.2 - Imperativ
+
+> Gebiedende wijs
+
+| Informell | Formell |
+| --- | --- |
+| `ik`-Form | `u`-Form |
+| *Luister naar mij!* | *Luistert u naar mij!* |
+| *Ga weg!* | *Gaat u weg!* |
+| *Wees ardig!* | *Weest u ardig!* |
+
+**Achtung:** *zijn* → *wees*
+
+Abschwächen durch:
+- eens (*einmal*)
+- even (*kurz*)
+- maar (*mal*)
+- toch (*doch*)
+
+Alternativ: Infinitiv
+- *Niet parkeren!*
+- *Doorlopen alstublieft!*
+
+## 1.3 - Singular & Plural
+
+> Eenvoud & meervoud
+
+| Wortendung | Anhang |
+| --- | --- |
+| `e`/`el`/`er`/`en`/`em` & mehrsilbig | +`s` |
+| `a`/`i`/`o`/`u`/`y` | +`'s` |
+| *sonst* | +`en` |
+
+**Ausnahmen:**
+| Singular | Plural |
+| --- | --- |
+| glas | glazen |
+| kind | kinderen |
+| dag | dagen |
+| ei | eieren |
+| stad | steden |
+| oom | ooms |
+
+## 1.4 - Verniedlichung
+
+> Verkleinwoorden
+
+In der Regel positiv behaftet.
+
+| Wortendung | Anhang |
+| --- | --- |
+| `l`/`n`/`w`/`r`/`e`/`a`/`o`/`u` | +`tje` |
+| `m` | +`pje` |
+| `ing` | +`kje` |
+| `l`/`m`/`n`/`ng`/`r` & unbetont / einsilbig | +`etje` |
+| *sonst* | +`je` |
+
+## 1.5 - Steigerung
+
+> Comparatief & superlatief
+
+**Komparativ:** +`er`
+
+**Superlativ:** +`st`
+
+Bei >= 3 Silben oder komplizierter Aussprache oft: (het) *meest* Grundwort
+
+| Vergleich | Formulierung |
+| --- | --- |
+| `<`/`>` | ... *dan* ... |
+| `=` | *even* ... *als* |
+| `≠` | *niet zo* ... *als* |
+
+| Ausnahme | Komparativ | Superlativ |
+| --- | --- | --- |
+| goed | beter | (het) best |
+| wenig | minder | (het) minst |
+| veel | meer | (het) meest |
+| graag | liever | (het) liefst |
+| duur | duurder | (het) duurst |
+
+## 1.6 - Pronomen
+
+> Pronomina / voornaamwoorden
+
+| | Subjekt | Objekt | Possesiv | Reflexiv |
+| --- | --- | --- | --- | --- |
+| 1Ps | ik | me/mij | mijn | me |
+| 2Ps | je/jij | je/jou | je/jouw | je |
+| 2Ps formell | u | u | uw | u/zich |
+| 3Ps | hij, ze/zij, het | hem, haar, het | zijn, haar, zijn | zich, zich, zich |
+| 1Pp | we/wij | ons | ons/onze | ons |
+| 2Pp | jullie | jullie | jullie | je |
+| 3Pp | ze/zij | ze(/hun/hen) | hun | zich |
+
+**Relativpronomen**
+
+> Betrekkelijke voornaamwoorden
+
+| Bezugswörter | Relativpronomen | Beispiel |
+| --- | --- | --- |
+| `het`-Wörter | *dat* | *Het boek **dat** ik heb gelezen* |
+| `de`-Wörter | *die* | *De man **die** daar staat* |
+| Unbestimmte Dinge / Mengenangaben / Superlative | *wat* | *Het is alles **wat** ik kan zeggen* |
+
+## 1.7 - Fragewörter
+
+> Vraagwoorden
+
+| Fragewort | Übersetzung |
+| --- | --- |
+| *Wie* | Wer |
+| *Wat* | Was |
+| *Waroom* | Warum |
+| *Waar* | Wo |
+| *Waar* ... *vandaan* | Woher |
+| *Wanneer* | Wann |
+| *Hoe* | Wie |
+| *Welk(e)* | Welche |
+
+## 1.8 - Modalverben
+
+> Modale werkwoorden
+
+| Plural | Singular | Übersetzung |
+| --- | --- | --- |
+| *kunnen* | *kan* | können |
+| *moeten* | *moet* | müssen/sollen |
+| *mogen* | *mag* | dürfen (**!**) |
+| *willen* | *wil* | wollen/möchten |
+| *zullen* | *zal* | werden (**!**) |
+
+## 1.9 - Konjunktionen
+
+> Voegwoorden
+
+| Konjunktion | Übersetzung | Satzgefüge |
+| --- | --- | --- |
+| en | und | `HS` → `HS` |
+| en ... en | sowohl ... als auch | `HS` → `HS` |
+| of | oder | `HS` → `HS` |
+| of ... of | entweder ... oder | `HS` → `HS` |
+| maar | aber | `HS` → `HS` |
+| want | denn | `HS` → `HS` |
+| dus | also | `HS` → `HS`/`NS` |
+| aangezien | da | `HS` → `NS` |
+| als | wenn | `HS` → `NS` |
+| dat | dass | `HS` → `NS` |
+| doordat | weil | `HS` → `NS` |
+| hoe | wie | `HS` → `NS` |
+| hoewel | obwohl | `HS` → `NS` |
+| indien | wenn/falls | `HS` → `NS` |
+| mits | vorrausgesetzt, dass | `HS` → `NS` |
+| nadat | nachdem | `HS` → `NS` |
+| of | ob | `HS` → `NS` |
+| omdat | weil | `HS` → `NS` |
+| sinds | seit | `HS` → `NS` |
+| tenzij | es sei denn | `HS` → `NS` |
+| terwijl | während | `HS` → `NS` |
+| toen | als | `HS` → `NS` |
+| tot(dat) | bis | `HS` → `NS` |
+| voor(dat) | bevor | `HS` → `NS` |
+| wanneer | wenn | `HS` → `NS` |
+| zodat | sodass | `HS` → `NS` |
+| zodra | sobald | `HS` → `NS` |
+
+## 1.10 - Konditionalis
+
+`zou`/`zouden` + *(Modal-)Verb*
+
+| Form | Übersetzung |
+| --- | --- |
+| zou zijn | wäre |
+| zou mogen | dürfte |
+| zou hebben | hätte |
+| zou kunnen | könnte |
+| zou moeten | müsste |
+| zou + *Verb* | würde + *Verb* |
+
+| Kontext | Beispiel |
+| --- | --- |
+| (Höfliche) Bitte | *Zou iemand me kunnen elpen?* |
+| Wunsch | *Ik zou zo graag een hond willen hebben* |
+| Vorschlag | *Je zou het met zalf kunnen proberen* |
+| Vermutung | *Zou het aan mijn gezonde levenswijze kunnen liggen?* |
+| Wünschenswertes | *Ik zou eens vroeg naar bed moeten gaan* |
+| Hörensagen | *Dat zou de beste pizzeria in de stad zijn* |
+| (Irreale) Kondition | *Als ik een pard had, dan zou ik iedere dag in het bos rijden* |
+
+# 2 - Allgemeines
+
+## 2.1 - Begrüßungen
+
+- Goedemorgen
+- Goedemiddag
+- Goedenavond
+- Hallo
+- Hoi
+
+## 2.2 - Verabschiedungen
+
+- Tot ziens
+- Tot straks
+- Tot morgen
+- Tot volgende week
+- Doei
+- Dag/daag
+
+## 2.3 - Wie geht es dir?
+
+> Hoe gaat het (met je)?
+
+| Antwort | Positivität |
+| --- | --- |
+| prima / uitstekend / heel goed / hartstikke goed / fantastisch | `++` |
+| goed | `+` |
+| het gaat wel | `o` |
+| niet zo goed | `-` |
+| slecht | `--` |
+
+# 3 - Zwischenprüfung
+
+## 3.1 - Fragen zu Texten
+
+### 3.1.1 - Feest!
+
+### 3.1.2 - Problemen
+
+| Formulierung | Beschreibung |
+| --- | --- |
+| *Als ik jou was, ging ik naar de dokter* | `als` + Nebensatz im Imperfekt |
+| *Je zou yoga kunnen proberen* | Konditionalis |
+| *Je moet darnaa kijken* | `moeten` + Infinitiv |
+| *Drink een beetje water* | Imperativ |
+
+### 3.1.3 - Een goede vriend of vriendin
+
+### 3.1.4 - Schrijf een lezersbrief
+
+### 3.1.5 - Een echte aanrader
+
+## 3.2 - Bildbeschreibung
+
+## 3.3 - Scenarien
+
